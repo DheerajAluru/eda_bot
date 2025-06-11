@@ -104,8 +104,8 @@ Include test `.csv` and `.xlsx` files in `UploadedFiles/` or via the UI.
 ---
 
 ## Future Improvements
-Prompts given from gemini api tend to return inaccurate summary about the dataset which can be improved further by more precise prompt engineering.
-Although executing the genrated code in E2B is secure, the output from the E2B execution results can be refined further to have more detailed infomration in the frontend.
-The current state of front end is very simple with a very basic layout. This can be enhanced more for a better look and feel
-There can be an option introduced to let users see the dataset information and then chose specific column wise plottings. This also includes adding more filters.
-The current fastapi implementation can be refactored more with more custom exception handling and adding more validations for edge cases.
+- Prompts given from gemini api tend to return inaccurate summary about the dataset which can be improved further by more precise prompt engineering.
+- Although executing the genrated code in E2B is secure, the output from the E2B execution results can be refined further to have more detailed infomration in the frontend.
+- The current state of front end is very simple with a very basic layout. This can be enhanced more for a better look and feel
+- There can be an option introduced to let users see the dataset information and then chose specific column wise plottings. This also includes adding more filters.
+- The current fastapi implementation can be refactored more with more custom exception handling and adding more validations for edge cases.
