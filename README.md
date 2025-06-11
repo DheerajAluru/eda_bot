@@ -98,7 +98,7 @@ Include test `.csv` and `.xlsx` files in `UploadedFiles/` or via the UI.
 ---
 
 ## 📸 Screenshots
-![alt text](https://drive.google.com/file/d/1JXt5WNzridKwe35zsjq_v0eHbCNQrmVB/view?usp=sharing)
-![alt text](https://drive.google.com/file/d/1SJztEe_WK7kNCvtgFAnGD-WKC7riIGrx/view?usp=sharing)
+![image](https://drive.google.com/uc?export=view&id=1JXt5WNzridKwe35zsjq_v0eHbCNQrmVB)
+![image](https://drive.google.com/uc?export=view&id=1SJztEe_WK7kNCvtgFAnGD-WKC7riIGrx)
 
 ---
