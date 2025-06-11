@@ -1,0 +1,10 @@
+.env
+venv/
+package-lock.json
+node_modules
+datasets
+notebooks
+*.pyc
+__pycache__/
+frontend-app/package-lock.json
+.vscode
