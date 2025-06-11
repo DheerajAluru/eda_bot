@@ -96,8 +96,3 @@ E2B_API_KEY=your_key_here
 Include test `.csv` and `.xlsx` files in `UploadedFiles/` or via the UI.
 
 ---
-
-## 📸 Screenshots
-> Add screenshots here to showcase UI and generated plots.
-
----
