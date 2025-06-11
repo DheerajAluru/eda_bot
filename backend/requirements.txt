@@ -1,0 +1,10 @@
+google-genai
+fastapi
+uvicorn
+python-multipart
+pandas
+matplotlib
+openpyxl
+e2b
+dotenv
+e2b_code_interpreter
