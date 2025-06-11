@@ -37,7 +37,7 @@ your-project/
 │   ├── agent.py
 │   ├── utils.py
 │   ├── Plots/
-│   ├── UploadedFiles/
+│   ├── datasets/
 │   └── __init__.py
 ```
 
@@ -51,8 +51,8 @@ your-project/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/your-project.git
-cd your-project
+git clone https://github.com/DheerajAluru/eda_bot.git
+cd eda_bot
 ```
 
 ### 2. Run via Docker Compose
