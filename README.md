@@ -101,6 +101,3 @@ Include test `.csv` and `.xlsx` files in `UploadedFiles/` or via the UI.
 > Add screenshots here to showcase UI and generated plots.
 
 ---
-
-## 📄 License
-MIT © [Your Name](https://github.com/yourusername)
